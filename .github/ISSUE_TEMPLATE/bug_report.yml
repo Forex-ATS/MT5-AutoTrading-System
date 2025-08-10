@@ -1,0 +1,19 @@
+name: Bug report
+description: Report a bug or issue
+labels: [bug]
+body:
+  - type: textarea
+    id: desc
+    attributes:
+      label: Problem description
+      description: What is happening? What did you expect?
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: Please provide steps to reproduce the issue.
+  - type: input
+    id: version
+    attributes:
+      label: Add-on version (SemVer)
+      description: Which version are you using?
