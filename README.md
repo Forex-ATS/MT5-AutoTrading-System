@@ -1,6 +1,9 @@
 # MT5 Auto Trading System (Expert Advisor)
 This project provides an automated trading system for the MetaTrader 5 platform built on a price action breakout strategy.
 
+> **Forex ATS** stands for "Automated Trading System".
+> For more information and updates, visit www.forexats.com.
+
 ## Requirements
 - MetaTrader 5 (latest version)
 - Copy the files into the appropriate MQL5 folders:
