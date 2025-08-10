@@ -1,0 +1,6 @@
+# This is an example preset file for the MT5 Auto Trading System.
+# Set the following inputs in the expert's Parameters dialog.
+RiskPercent=1.0
+RR_Target=1.3
+SessionStartHour=6
+SessionEndHour=19
