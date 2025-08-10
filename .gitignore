@@ -1,0 +1,19 @@
+# System / OS
+.DS_Store
+Thumbs.db
+
+# IDE / Editors
+.vscode/
+.idea/
+
+# Compiled & caches
+*.ex5
+*.ex4
+*.mqh~*
+*.mq5~*
+*.log
+
+# User presets & secrets
+*.set
+secrets.json
+config.json
